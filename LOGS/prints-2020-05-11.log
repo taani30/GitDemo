@@ -1,0 +1,5 @@
+06:15:02.664 [AsyncHttpClient-3-1] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@1de264d
+06:15:02.684 [AsyncHttpClient-3-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+06:15:02.684 [AsyncHttpClient-3-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+06:15:02.684 [AsyncHttpClient-3-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.linkCapacity: 16
+06:15:02.684 [AsyncHttpClient-3-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
