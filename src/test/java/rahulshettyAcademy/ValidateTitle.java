@@ -57,6 +57,8 @@ public class ValidateTitle extends base{
 		driver.close();
 		driver=null;
 		System.out.println("this is change by gitstuff on 2:57pm");
+		System.out.println("browser succesfully closed");
+//>>>>>>> 7b0c7231d4e048d1afe90ed3a8d2ebfdb0fec836
 	}
 	
 }

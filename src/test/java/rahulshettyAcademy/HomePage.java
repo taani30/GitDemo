@@ -45,6 +45,7 @@ public class HomePage extends base {
 		driver=null;
 		
 		System.out.println("browser closing of the homepage automation");
+		System.out.println("web automation completed");
 	}
 	 
 	@DataProvider
