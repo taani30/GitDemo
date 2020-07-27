@@ -43,6 +43,8 @@ public class HomePage extends base {
 	public void closeBrowser() {
 		driver.close();
 		driver=null;
+		
+		System.out.println("browser closing of the homepage automation");
 	}
 	 
 	@DataProvider
