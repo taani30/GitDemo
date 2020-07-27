@@ -56,6 +56,7 @@ public class ValidateTitle extends base{
 	public void closeBrowser() {
 		driver.close();
 		driver=null;
+		System.out.println("browser succesfully closed");
 	}
 	
 }
